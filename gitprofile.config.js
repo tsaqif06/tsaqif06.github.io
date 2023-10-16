@@ -93,7 +93,7 @@ const config = {
       title: 'SIPENA',
       description:
         'SIPENA is a website created to meet the specific needs of flats in the city of Malang, which aims to provide smooth management of house rental payments and convenient reminders for its residents. Here, I am the leader for this website, more precisely in the back end',
-      imageUrl: 'src/assets/logofinal.png',
+      imageUrl: '/src/assets/sipena.png',
       link: 'https://sipena.site',
     },
     // {
@@ -107,16 +107,14 @@ const config = {
       title: 'TSCode',
       description:
         'TSCode is a website for changing URLs into QRcodes, this website is only intended to improve my skills',
-      imageUrl:
-        'https://raw.githubusercontent.com/tsaqif06/TSCode/main/img/favicon.ico',
+      imageUrl: '/src/assets/tscode.png',
       link: 'https://tscode.atsaqif.repl.co',
     },
     {
       title: 'SinBar TIK',
       description:
         'SinBar TIK or Sinau Bareng TIK is a website to help teachers teach informatics material to their students. I made this with my other friends and here I am as a programmer',
-      imageUrl:
-        'https://raw.githubusercontent.com/tsaqif06/SinBar-TIK/main/assets/images/logo.png',
+      imageUrl: '/src/assets/sinbartik.png',
       link: 'https://sinbar-tik.vercel.app',
     },
   ],
