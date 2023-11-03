@@ -98,6 +98,22 @@ const config = {
       link: 'https://sipena.site',
     },
     {
+      title: 'Edugator',
+      description:
+        'Edugator or Education Game Generator is a website that can process cards where these cards can be made into educational games for children, via REST API. Here, I am in charge of creating the payment method, managing the REST API and managing the server',
+      imageUrl:
+        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
+      link: 'https://dev.birosolusi.com/edugator',
+    },
+    {
+      title: 'RN Billing Service',
+      description:
+        'RN Billing Service is a web to manage internet billing payments and also manage the internet. Here, I am in charge of creating the payment method, managing the REST API and managing the server',
+      imageUrl:
+        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
+      link: 'https://dev.birosolusi.com/rn-billing-service',
+    },
+    {
       title: 'TSCode',
       description:
         'TSCode is a website for changing URLs into QRcodes, this website is only intended to improve my skills',
