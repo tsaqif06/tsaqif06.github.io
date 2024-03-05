@@ -1,12 +1,10 @@
-// gitprofile.config.js
-
 const config = {
   github: {
-    username: 'tsaqif06', // Your GitHub org/user name. (Required)
-    sortBy: 'updated', // stars | updated
-    limit: 6, // How many projects to display.
+    username: 'tsaqif06',
+    sortBy: 'updated',
+    limit: 6,
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: false,
       projects: [
         'go-fiber-gorm-learn',
         'belajar-golang',
@@ -25,19 +23,19 @@ const config = {
         'smkcoding-csharp',
         'js-lanjutan',
         'belajar-bs5-grid-responsive',
-      ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      ],
     },
   },
   social: {
     linkedin: 'ahmad-tsaqif',
     facebook: '',
     instagram: 'a.tsaqif_al',
-    youtube: 'tsaqifgaming', // example: 'pewdiepie'
+    youtube: 'tsaqifgaming',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: '',
     skype: '',
     telegram: '',
     website: 'https://tsaqif06.github.io',
@@ -46,7 +44,7 @@ const config = {
   },
   // resume: {
   //   fileUrl:
-  //     'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+  //     'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
   // },
   skills: [
     'PHP',
@@ -87,7 +85,6 @@ const config = {
     },
   ],
 
-  // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'SIPENA',
@@ -130,35 +127,22 @@ const config = {
       link: 'https://sinbar-tik.vercel.app',
     },
   ],
-  // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: '', // medium | dev
-    username: '', // to hide blog section, keep it empty
-    // limit: 2, // How many posts to display. Max is 10.
+    source: '',
+    username: '',
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: '',
   },
-  // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
     id: '',
     snippetVersion: 6,
   },
   themeConfig: {
     defaultTheme: 'dark',
-
-    // Hides the switch in the navbar
-    // Useful if you want to support a single color mode
     disableSwitch: false,
-
-    // Should use the prefers-color-scheme media-query,
-    // using user system preferences, instead of the hardcoded defaultTheme
     respectPrefersColorScheme: false,
-
-    // Hide the ring in Profile picture
     hideAvatarRing: false,
-
-    // Available themes. To remove any theme, exclude from here.
     themes: [
       'light',
       'dark',
@@ -191,8 +175,6 @@ const config = {
       'winter',
       'procyon',
     ],
-
-    // Custom theme
     customTheme: {
       primary: '#fc055b',
       secondary: '#219aaf',
@@ -203,9 +185,7 @@ const config = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with ❤️`,
+  // footer: `Made with ❤️`,
 };
 
 export default config;
