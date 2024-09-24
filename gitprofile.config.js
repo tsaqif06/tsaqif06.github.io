@@ -86,10 +86,18 @@ const config = {
   ],
 
   externalProjects: [
+      {
+      title: 'SAKIP',
+      description:
+        'SAKIP (Sistem Akuntabilitas Kinerja Sistem Instansi Pemerintah) is a web-based platform developed to enhance institutional accountability within government agencies. It provides an efficient, interactive solution for submitting and tracking performance reports online, specifically designed for regional agencies such as the Land Affairs Office of Malang Regency. By simplifying the reporting process, SAKIP improves transparency, accountability, and operational efficiency. I played a key role in leading the development of this platform, focusing on backend architecture and functionality.',
+      imageUrl:
+        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/Logo-SAKIP.png',
+      link: 'https://dev.unimasoft.id/unimasoft-sakip/',
+    },
     {
       title: 'SIPENA',
       description:
-        'SIPENA is a website created to meet the specific needs of flats in the city of Malang, which aims to provide smooth management of house rental payments and convenient reminders for its residents. Here, I am the leader for this website, more precisely in the back end',
+        'SIPENA is a custom-built platform designed to streamline rental management for apartment complexes in Malang. It facilitates efficient management of rental payments and provides automated reminders to residents. My role in this project involved leading the backend development, ensuring smooth and secure server operations, and implementing core functionality.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sipena.png',
       link: 'https://sipena.site',
@@ -97,7 +105,7 @@ const config = {
     {
       title: 'Edugator',
       description:
-        'Edugator or Education Game Generator is a website that can process cards where these cards can be made into educational games for children, via REST API. Here, I am in charge of creating the payment method, managing the REST API and managing the server',
+        'Edugator, short for Education Game Generator, is a platform that generates educational games using customizable cards, designed to make learning fun for children. My contributions included developing the payment system, managing the REST API, and maintaining the server infrastructure to ensure a seamless experience for users.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
       link: 'https://dev.birosolusi.com/edugator',
@@ -105,7 +113,7 @@ const config = {
     {
       title: 'RN Billing Service',
       description:
-        'RN Billing Service is a web to manage internet billing payments and also manage the internet. Here, I am in charge of creating the payment method, managing the REST API and managing the server',
+        'RN Billing Service is a comprehensive platform for managing internet billing payments and overseeing internet service operations. I was responsible for developing the payment gateway, managing the REST API, and ensuring server reliability to support the platform’s functionality and user demands.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
       link: 'https://dev.birosolusi.com/rn-billing-service',
@@ -113,7 +121,7 @@ const config = {
     {
       title: 'TSCode',
       description:
-        'TSCode is a website for changing URLs into QRcodes, this website is only intended to improve my skills',
+        'TSCode is a personal project developed to convert URLs into QR codes. This project was primarily created as a way to enhance my skills in backend development and improve my proficiency in web technologies. It demonstrates my ability to handle smaller-scale projects with precision and efficiency.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/tscode.png',
       link: 'https://tscode.atsaqif.repl.co',
@@ -121,7 +129,7 @@ const config = {
     {
       title: 'SinBar TIK',
       description:
-        'SinBar TIK or Sinau Bareng TIK is a website to help teachers teach informatics material to their students. I made this with my other friends and here I am as a programmer',
+        'SinBar TIK or Sinau Bareng TIK is an educational platform created to assist teachers in delivering informatics lessons to their students. I collaborated with other team members on this project and contributed as the primary programmer, focusing on implementing the platform’s core technical components.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sinbartik.png',
       link: 'https://sinbar-tik.vercel.app',
