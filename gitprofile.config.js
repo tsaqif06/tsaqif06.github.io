@@ -64,7 +64,7 @@ const config = {
       company: 'PT. Tiga Pilar Garuda',
       position: 'Back End Developer',
       from: 'March 2023',
-      to: 'Present',
+      to: 'December 2024',
       companyLink: 'https://3-pilar.com',
     },
   ],
