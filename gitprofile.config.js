@@ -23,6 +23,7 @@ const config = {
         'smkcoding-csharp',
         'js-lanjutan',
         'belajar-bs5-grid-responsive',
+        'javascript-backend-learning',
       ],
     },
   },
