@@ -63,7 +63,7 @@ const config = {
     {
       company: 'PT. Tiga Pilar Garuda',
       position: 'Back End Developer',
-      from: 'March 2023',
+      from: 'January 2024',
       to: 'December 2024',
       companyLink: 'https://3-pilar.com',
     },
@@ -80,24 +80,32 @@ const config = {
     {
       institution: 'SMKN 4 Malang',
       degree: 'Software Engineering',
-      from: '2022',
-      to: 'Present',
+      from: 'July 2022',
+      to: 'Juny 2025',
     },
   ],
 
   externalProjects: [
-      {
+    {
+      title: 'SIPARMA',
+      description:
+        'SIPARMA is a web-based platform that provides information about tourist attractions in Malang and facilitates online ticket purchases, helping tourists easily access travel details and read tourism-related articles. For my school final project, I led the team, focusing on backend development and coordinating members to ensure smooth project execution.',
+      imageUrl:
+        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/siparma.png',
+      link: 'https://siparma.catalogrpl.com/',
+    },
+    {
       title: 'SAKIP',
       description:
-        'SAKIP (Sistem Akuntabilitas Kinerja Sistem Instansi Pemerintah) is a web-based platform developed to enhance institutional accountability within government agencies. It provides an efficient, interactive solution for submitting and tracking performance reports online, specifically designed for regional agencies such as the Land Affairs Office of Malang Regency. By simplifying the reporting process, SAKIP improves transparency, accountability, and operational efficiency. I played a key role in leading the development of this platform, focusing on backend architecture and functionality.',
+        'SAKIP is a web-based platform designed to enhance government agency accountability by simplifying the submission and tracking of performance reports for regional offices like the Land Affairs Office of Malang Regency, where I led the backend development.',
       imageUrl:
-        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/Logo-SAKIP.png',
+        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sakip.png',
       link: 'https://dev.unimasoft.id/unimasoft-sakip/',
     },
     {
       title: 'SIPENA',
       description:
-        'SIPENA is a custom-built platform designed to streamline rental management for apartment complexes in Malang. It facilitates efficient management of rental payments and provides automated reminders to residents. My role in this project involved leading the backend development, ensuring smooth and secure server operations, and implementing core functionality.',
+        '"SIPENA is a custom platform that streamlines apartment rental management in Malang, handling payments and automated resident reminders. I led backend development, ensuring secure server operations and implementing core functionality.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sipena.png',
       link: 'https://sipena.site',
@@ -105,7 +113,7 @@ const config = {
     {
       title: 'Edugator',
       description:
-        'Edugator, short for Education Game Generator, is a platform that generates educational games using customizable cards, designed to make learning fun for children. My contributions included developing the payment system, managing the REST API, and maintaining the server infrastructure to ensure a seamless experience for users.',
+        'Edugator (Education Game Generator) is a platform that creates educational games with customizable cards to make learning fun for children. I contributed by developing the payment system, managing the REST API, and maintaining the server infrastructure for a seamless user experience.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
       link: 'https://dev.birosolusi.com/edugator',
@@ -113,7 +121,7 @@ const config = {
     {
       title: 'RN Billing Service',
       description:
-        'RN Billing Service is a comprehensive platform for managing internet billing payments and overseeing internet service operations. I was responsible for developing the payment gateway, managing the REST API, and ensuring server reliability to support the platform’s functionality and user demands.',
+        'RN Billing Service is a comprehensive platform for managing internet billing and service operations, where I handled the development of the payment gateway, managed the REST API, and ensured server reliability to support platform functionality and user demands.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
       link: 'https://dev.birosolusi.com/rn-billing-service',
