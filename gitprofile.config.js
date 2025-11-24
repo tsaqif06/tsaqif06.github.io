@@ -82,6 +82,80 @@ const config = {
       link: 'https://example.com'
     },
   ], */
+  certifications: [
+    {
+      name: 'Goethe B1',
+      body: 'Certified in German language proficiency at B1 level.',
+      year: '2024',
+      link: ''
+    },
+    {
+      name: 'Magang IT - Back-End Developer',
+      body: 'Completed an internship as a Back-End Developer, gaining hands-on experience in server-side programming, database management, and API development.',
+      year: '2024',
+      link: ''
+    },
+    {
+      name: 'Certificate of Competency - Web Development',
+      body: 'Awarded certificate for successful completion of a team-based final project, developing a full-featured website from planning to deployment.',
+      year: '2024',
+      link: ''
+    },
+    {
+      name: 'TOEIC 635',
+      body: 'Achieved a TOEIC score of 635, demonstrating English language proficiency.',
+      year: '2024',
+      link: ''
+    },
+    {
+      name: 'Belajar Back-End Pemula dengan JavaScript',
+      body: 'Learned JavaScript back-end development using Node.js and hapi.js framework.',
+      year: '2024',
+      link: 'https://www.dicoding.com/certificates/KEXLYN00MZG2'
+    },
+    {
+      name: 'Belajar Dasar AI',
+      body: 'Completed basic AI course covering Artificial Intelligence, Neural Networks, Machine Learning, and Deep Learning.',
+      year: '2024',
+      link: 'https://www.dicoding.com/certificates/JMZV4091NXN9'
+    },
+    {
+      name: 'Belajar Dasar Pemrograman JavaScript',
+      body: 'Acquired foundational skills in JavaScript programming.',
+      year: '2024',
+      link: 'https://www.dicoding.com/certificates/98XW5QGGLPM3'
+    },
+    {
+      name: 'Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)',
+      body: 'Learned AWS Cloud basics and cloud computing fundamentals.',
+      year: '2024',
+      link: 'https://www.dicoding.com/certificates/GRX54YDDRP0M'
+    },
+    {
+      name: 'Belajar Membuat Front-End Web Untuk Pemula',
+      body: 'Learned front-end web development and web design fundamentals.',
+      year: '2024',
+      link: 'https://www.dicoding.com/certificates/GRX5Q15KKZ0M'
+    },
+    {
+      name: 'Asia Web Slicing Challenge',
+      body: 'Participated in web design challenge hosted by Institut Teknologi & Bisnis ASIA.',
+      year: '2024',
+      link: 'https://media.licdn.com/dms/image/v2/D562DAQGzfYfOpD5oJw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1727171303850?e=1764583200&v=beta&t=NSCN6Jo-l4c-mxWEoru-uFXE4UfnusOm61YfXzkqLeA'
+    },
+    {
+      name: 'PCAP: Programming Essentials in Python',
+      body: 'Certified in Python programming basics and problem-solving techniques.',
+      year: '2023',
+      link: ''
+    },
+    {
+      name: 'Pelatihan Full-Stack .NET Developers',
+      body: 'Completed full-stack development training using .NET Framework.',
+      year: '2023',
+      link: ''
+    }
+  ],
   education: [
     {
       institution: 'SMKN 4 Malang',
