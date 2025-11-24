@@ -111,7 +111,7 @@ const config = {
     {
       title: 'SIPENA',
       description:
-        '"SIPENA is a custom platform that streamlines apartment rental management in Malang, handling payments and automated resident reminders. I led backend development, ensuring secure server operations and implementing core functionality.',
+        'SIPENA is a custom platform that streamlines apartment rental management in Malang, handling payments and automated resident reminders. I led backend development, ensuring secure server operations and implementing core functionality.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sipena.png',
       link: 'https://sipena.site',
