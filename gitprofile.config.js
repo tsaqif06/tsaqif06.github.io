@@ -35,8 +35,8 @@ const config = {
   social: {
     linkedin: 'ahmad-tsaqif',
     facebook: '',
-    instagram: 'a.tsaqif_al',
-    youtube: 'tsaqifgaming',
+    instagram: 'ahmadtsaqif.al',
+    youtube: '',
     dribbble: '',
     behance: '',
     medium: '',
