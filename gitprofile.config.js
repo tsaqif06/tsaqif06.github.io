@@ -86,18 +86,18 @@ const config = {
     {
       name: 'Goethe B1',
       body: 'Certified in German language proficiency at B1 level.',
-      year: '2024',
-      link: ''
-    },
-    {
-      name: 'Magang IT - Back-End Developer',
-      body: 'Completed an internship as a Back-End Developer, gaining hands-on experience in server-side programming, database management, and API development.',
-      year: '2024',
+      year: '2025',
       link: ''
     },
     {
       name: 'Certificate of Competency - Web Development',
       body: 'Awarded certificate for successful completion of a team-based final project, developing a full-featured website from planning to deployment.',
+      year: '2025',
+      link: ''
+    },
+    {
+      name: 'Certificate of Internship - Back-End Developer',
+      body: 'Completed an internship as a Back-End Developer, gaining hands-on experience in server-side programming, database management, and API development.',
       year: '2024',
       link: ''
     },
