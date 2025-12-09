@@ -169,7 +169,7 @@ const config = {
     {
       title: 'E-Perpus',
       description:
-        'E-Perpus is a simple and modern digital library application built for a school, allowing students to access and read digital books while administrators manage users and uploaded book content. The system is fully responsive and designed with my custom [BiblioHaus UI](https://github.com/tsaqif06/bibliohaus) template, developed end-to-end by me using Laravel for the backend and React + TypeScript + Tailwind for the frontend.',
+        'A modern school digital library enabling student book access and admin content management. The fully responsive system, featuring my custom BiblioHaus UI, was developed end-to-end by me using Laravel and React/TS/Tailwind.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/e-perpus.png',
       link: 'https://e-perpus.miawajak.sch.id/',
@@ -177,7 +177,7 @@ const config = {
     {
       title: 'SIPARMA',
       description:
-        'SIPARMA is a web-based platform that provides information about tourist attractions in Malang and facilitates online ticket purchases, helping tourists easily access travel details and read tourism-related articles. For my school final project, I led the team, focusing on backend development and coordinating members to ensure smooth project execution.',
+        'A web-based platform providing comprehensive information and online ticket purchases for Malang\'s tourist attractions. For this school final project, I led the team and handled the backend development, ensuring efficient project delivery.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/siparma.png',
       link: 'https://siparma.catalogrpl.com/',
@@ -185,7 +185,7 @@ const config = {
     {
       title: 'SAKIP',
       description:
-        'SAKIP is a web-based platform designed to enhance government agency accountability by simplifying the submission and tracking of performance reports for regional offices like the Land Affairs Office of Malang Regency, where I led the backend development.',
+        'A web-based platform that streamlines the submission and tracking of performance reports, significantly enhancing accountability for regional government agencies like the Land Affairs Office of Malang Regency. My primary role was leading the backend development.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sakip.png',
       link: 'https://dev.unimasoft.id/unimasoft-sakip/',
@@ -193,7 +193,7 @@ const config = {
     {
       title: 'SIPENA',
       description:
-        'SIPENA is a custom platform that streamlines apartment rental management in Malang, handling payments and automated resident reminders. I led backend development, ensuring secure server operations and implementing core functionality.',
+        'A custom platform designed to manage apartment rentals in Malang efficiently, featuring payment processing and automated resident reminders. My role involved leading the backend development, ensuring secure operations and implementing essential features.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sipena.png',
       link: 'https://sipena.site',
@@ -201,7 +201,7 @@ const config = {
     {
       title: 'Edugator',
       description:
-        'Edugator (Education Game Generator) is a platform that creates educational games with customizable cards to make learning fun for children. I contributed by developing the payment system, managing the REST API, and maintaining the server infrastructure for a seamless user experience.',
+        'A platform that generates educational games using customizable cards to engage children in learning. My contributions included developing the payment system, managing the REST API, and ensuring seamless server infrastructure maintenance.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
       link: 'https://dev.birosolusi.com/edugator',
@@ -217,7 +217,7 @@ const config = {
     {
       title: 'TSCode',
       description:
-        'TSCode is a personal project developed to convert URLs into QR codes. This project was primarily created as a way to enhance my skills in backend development and improve my proficiency in web technologies. It demonstrates my ability to handle smaller-scale projects with precision and efficiency.',
+        'A personal project developed to convert URLs into QR codes. This platform showcases my precision and efficiency in handling projects, primarily created to boost my proficiency in backend development and web technologies.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/tscode.png',
       link: 'https://tscode.atsaqif.repl.co',
@@ -225,7 +225,7 @@ const config = {
     {
       title: 'SinBar TIK',
       description:
-        'SinBar TIK or Sinau Bareng TIK is an educational platform created to assist teachers in delivering informatics lessons to their students. I collaborated with other team members on this project and contributed as the primary programmer, focusing on implementing the platform’s core technical components.',
+        'An educational platform created to help teachers deliver TIK (Informatics) lessons to students. I served as the primary programmer in this collaborative project, focusing on implementing the core technical features of the platform.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sinbartik.png',
       link: 'https://sinbar-tik.vercel.app',
