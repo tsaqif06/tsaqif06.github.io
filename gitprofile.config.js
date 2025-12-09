@@ -209,7 +209,7 @@ const config = {
     {
       title: 'RN Billing Service',
       description:
-        'RN Billing Service is a comprehensive platform for managing internet billing and service operations, where I handled the development of the payment gateway, managed the REST API, and ensured server reliability to support platform functionality and user demands.',
+        'A comprehensive platform designed for managing internet billing and service operations. My role involved developing the payment gateway, managing the REST API, and maintaining server reliability to ensure full platform functionality.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
       link: 'https://dev.birosolusi.com/rn-billing-service',
