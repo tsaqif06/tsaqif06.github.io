@@ -165,7 +165,7 @@ const config = {
       institution: 'SMKN 4 Malang',
       degree: 'Software Engineering',
       from: 'July 2022',
-      to: 'Juny 2025',
+      to: 'May 2025',
     },
   ],
 
