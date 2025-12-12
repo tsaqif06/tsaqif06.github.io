@@ -60,6 +60,7 @@ const config = {
     'C#',
     'Go',
     'Laravel',
+    'CodeIgniter',
     'React.js',
     'Node.js',
     'MySQL',
