@@ -66,7 +66,6 @@ const config = {
     'Git',
     'Jquery',
     'JWT',
-    'CSS',
     'Bootstrap',
   ],
   experiences: [
