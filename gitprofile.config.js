@@ -71,7 +71,7 @@ const config = {
   ],
   experiences: [
     {
-      company: 'PT. Tiga Pilar Garuda',
+      company: 'PT Tiga Pilar Garuda',
       position: 'Back End Developer',
       from: 'January 2024',
       to: 'December 2024',
