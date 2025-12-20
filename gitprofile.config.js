@@ -35,7 +35,7 @@ const config = {
   social: {
     linkedin: 'ahmad-tsaqif',
     facebook: '',
-    instagram: 'ahmadtsaqif.al',
+    instagram: '',
     youtube: '',
     dribbble: '',
     behance: '',
@@ -71,12 +71,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'PT Tiga Pilar Garuda',
-      position: 'Back End Developer',
+      company: 'Self-employed',
+      position: 'Web Development Projects (Freelance)',
+      from: 'June 2024',
+      to: 'May 2025',
+    },
+    {
+      company: 'PT. Tiga Pilar Garuda',
+      position: 'Backend Development (Internship)',
       from: 'January 2024',
       to: 'December 2024',
       companyLink: 'https://3-pilar.com',
-    },
+    }
   ],
   /* certifications: [
     {
@@ -100,7 +106,7 @@ const config = {
       link: ''
     },
     {
-      name: 'Certificate of Internship - Back-End Developer',
+      name: 'Certificate of Internship',
       // body: 'Completed an internship as a Back-End Developer, gaining hands-on experience in server-side programming, database management, and API development.',
       year: '2024',
       link: ''
