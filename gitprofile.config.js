@@ -58,7 +58,6 @@ const config = {
     'TypeScript',
     'Python',
     'C#',
-    'Go',
     'Laravel',
     'CodeIgniter',
     'React.js',
@@ -71,10 +70,10 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Self-employed',
-      position: 'Web Development Projects (Freelance)',
-      from: 'June 2024',
-      to: 'May 2025',
+      company: 'Independent',
+      position: 'Independent Web Developer (Self-employed)',
+      from: 'January 2025',
+      to: 'Now',
     },
     {
       company: 'PT. Tiga Pilar Garuda',
@@ -112,7 +111,7 @@ const config = {
       link: ''
     },
     {
-      name: 'TOEIC 635',
+      name: 'TOEIC',
       // body: 'Achieved a TOEIC score of 635, demonstrating English language proficiency.',
       year: '2024',
       link: ''
@@ -160,7 +159,7 @@ const config = {
       link: ''
     },
     {
-      name: 'Pelatihan Full-Stack .NET Developers',
+      name: '.NET Full Stack Developer Training',
       // body: 'Completed full-stack development training using .NET Framework.',
       year: '2023',
       link: ''
