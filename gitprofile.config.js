@@ -178,7 +178,7 @@ const config = {
     {
       title: 'E-Perpus',
       description:
-        'A modern school digital library enabling student book access and admin content management. The fully responsive system, featuring my custom BiblioHaus UI, was developed end-to-end by me using Laravel and React/TS/Tailwind.',
+        'A modern school digital library enabling student book access and admin content management. The fully responsive system, featuring my custom BiblioHaus UI, was developed end-to-end by me using Laravel and React.js/TypeScript/Tailwind.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/e-perpus.png',
       link: 'https://e-perpus.miawajak.sch.id/',
@@ -194,10 +194,10 @@ const config = {
     {
       title: 'SAKIP',
       description:
-        'A web-based platform that streamlines the submission and tracking of performance reports, significantly enhancing accountability for regional government agencies like the Land Affairs Office of Malang Regency. My primary role was leading the backend development.',
+        'A web-based accountability platform for government agencies to track and report performance metrics. I led the backend development and architecture, delivering an automated reporting system that streamlined data submission and enhanced operational transparency for regional land offices. (Internal company system - Access restricted for security).',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sakip.png',
-      link: 'https://dev.unimasoft.id/unimasoft-sakip/',
+      link: '#',
     },
     {
       title: 'SIPENA',
@@ -205,31 +205,31 @@ const config = {
         'A custom platform designed to manage apartment rentals in Malang efficiently, featuring payment processing and automated resident reminders. My role involved leading the backend development, ensuring secure operations and implementing essential features.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sipena.png',
-      link: 'https://sipena.site',
+      link: 'https://github.com/tsaqif06/SIPENA',
     },
-    {
-      title: 'Edugator',
-      description:
-        'A platform that generates educational games using customizable cards to engage children in learning. My contributions included developing the payment system, managing the REST API, and ensuring seamless server infrastructure maintenance.',
-      imageUrl:
-        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
-      link: 'https://dev.birosolusi.com/edugator',
-    },
-    {
-      title: 'RN Billing Service',
-      description:
-        'A comprehensive platform designed for managing internet billing and service operations. My role involved developing the payment gateway, managing the REST API, and maintaining server reliability to ensure full platform functionality.',
-      imageUrl:
-        'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
-      link: 'https://dev.birosolusi.com/rn-billing-service',
-    },
+    // {
+    //   title: 'Edugator',
+    //   description:
+    //     'A platform that generates educational games using customizable cards to engage children in learning. My contributions included developing the payment system, managing the REST API, and ensuring seamless server infrastructure maintenance.',
+    //   imageUrl:
+    //     'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/edugator.png',
+    //   link: 'https://dev.birosolusi.com/edugator',
+    // },
+    // {
+    //   title: 'RN Billing Service',
+    //   description:
+    //     'A comprehensive platform designed for managing internet billing and service operations. My role involved developing the payment gateway, managing the REST API, and maintaining server reliability to ensure full platform functionality.',
+    //   imageUrl:
+    //     'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/rnbilling.png',
+    //   link: 'https://dev.birosolusi.com/rn-billing-service',
+    // },
     {
       title: 'TSCode',
       description:
         'A personal project developed to convert URLs into QR codes. This platform showcases my precision and efficiency in handling projects, primarily created to boost my proficiency in backend development and web technologies.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/tscode.png',
-      link: 'https://tscode.atsaqif.repl.co',
+      link: 'https://github.com/tsaqif06/TSCode',
     },
     {
       title: 'SinBar TIK',
