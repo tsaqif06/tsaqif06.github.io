@@ -99,7 +99,7 @@ const config = {
       link: ''
     },
     {
-      name: 'Certificate of Competency - Web Development',
+      name: 'Certificate of Competency - Software Engineering',
       // body: 'Awarded certificate for successful completion of a team-based final project, developing a full-featured website from planning to deployment.',
       year: '2025',
       link: ''
