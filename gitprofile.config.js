@@ -194,7 +194,7 @@ const config = {
     {
       title: 'SAKIP',
       description:
-        'A web-based accountability platform for government agencies to track and report performance metrics. I led the backend development and architecture, delivering an automated reporting system that streamlined data submission and enhanced operational transparency for regional land offices. <br />(Internal company system - Access restricted for security).',
+        'A web-based accountability platform for government agencies to track and report performance metrics. I led the backend development and architecture, delivering an automated reporting system that streamlined data submission and enhanced operational transparency for regional land offices.\n(Internal company system - Access restricted for security).',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/sakip.png',
       link: '#',
