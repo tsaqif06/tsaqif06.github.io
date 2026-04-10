@@ -189,7 +189,7 @@ const config = {
         'A web-based platform providing comprehensive information and online ticket purchases for Malang\'s tourist attractions. For this school final project, I led the team and handled the backend development, ensuring efficient project delivery.',
       imageUrl:
         'https://raw.githubusercontent.com/tsaqif06/tsaqif06.github.io/main/src/assets/siparma.png',
-      link: 'https://siparma.catalogrpl.com/',
+      link: 'https://github.com/tsaqif06/siparma',
     },
     {
       title: 'SAKIP',
